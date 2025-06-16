@@ -1,1 +1,1 @@
-# [moje-stranka](https://sokoja22.github.io/moje-stranka/)
+# [moje-stranka](https://sokoloja22.github.io/moje-stranka/)
